@@ -13,4 +13,5 @@ def mincoin(coins , amount):
 
 coins = [1, 2, 5, 10, 20, 50, 100, 200, 500]
 amount = 1246
-print(mincoin(coins, amount))
+out = mincoin(coins, amount)
+print(f"The minimum coin required is {out[0]} coins \nThe coins are {out[1]}")

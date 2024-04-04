@@ -243,4 +243,17 @@
 # coins = [1, 2, 5, 10, 20, 50, 100, 200, 500]
 # amount = 1246
 # print(mincoin(coins, amount))
+# y =0
+# z =88
+# x = y and z
+# print(x)
+
+
+
+# a = 2
+# b = 5
+# x = 10 
+# xy = lambda a , b: a * b
+# print(xy(x,a))
+
 
