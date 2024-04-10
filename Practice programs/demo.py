@@ -257,3 +257,41 @@
 # print(xy(x,a))
 
 
+# while True:
+#     try:
+#         n = input("Enter a number: ")
+#         print("you entered: ",n)
+#     except EOFError:
+#         print("end")
+
+# try:
+#     n= int(input())
+#     print(n * 10)
+# except EOFError as e:
+#     print(e)
+
+# d = 32
+# m = d << 2
+# print(m)
+# a = int(input("enter a"))
+
+# s = a / b - 3
+
+# a = "ababab"
+# b ="abab"
+
+# c = a and b
+# d = a or b
+
+# print(c)
+# print(d)
+
+# x = 44
+# y = 66
+
+# e = x and y
+# f = x or y
+
+# print(e)
+# print(f)
+
