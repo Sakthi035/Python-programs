@@ -295,3 +295,12 @@
 # print(e)
 # print(f)
 
+
+# car = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "brand": "tata"
+# }
+
+# print(car)
+
