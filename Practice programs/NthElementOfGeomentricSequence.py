@@ -2,8 +2,8 @@ def geomentricSequence(firstTerm, ratio, NthTerm):
 
     # print(firstTerm*pow(ratio,i))1
     if NthTerm == 1:
-        print(firstTerm)
-        return firstTerm
+        print(firstTerm)    
+        return firstTerm    
     else:
         # i =i+11
         a = geomentricSequence(firstTerm, ratio, NthTerm - 1) * ratio
